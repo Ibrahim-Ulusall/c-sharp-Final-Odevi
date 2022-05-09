@@ -1,0 +1,13 @@
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\bin\Debug\Final_Odevi.exe.config
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\bin\Debug\Final_Odevi.exe
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\bin\Debug\Final_Odevi.pdb
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\bin\Debug\Guna.UI.dll
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.Form1.resources
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.Properties.Resources.resources
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.TopPanel.resources
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.csproj.GenerateResource.Cache
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.exe
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.pdb
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.csprojResolveAssemblyReference.cache
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.Movies.resources
+c:\users\incar\documents\visual studio 2013\Projects\Final_Odevi\Final_Odevi\obj\Debug\Final_Odevi.Filmler.resources
